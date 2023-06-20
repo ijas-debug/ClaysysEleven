@@ -1,0 +1,11 @@
+C:\Users\IJAS\source\repos\Register_CrudOp\bin\Debug\Register_CrudOp.exe.config
+C:\Users\IJAS\source\repos\Register_CrudOp\bin\Debug\Register_CrudOp.exe
+C:\Users\IJAS\source\repos\Register_CrudOp\bin\Debug\Register_CrudOp.pdb
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.Form1.resources
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.Properties.Resources.resources
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.csproj.GenerateResource.cache
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.exe
+C:\Users\IJAS\source\repos\Register_CrudOp\obj\Debug\Register_CrudOp.pdb
